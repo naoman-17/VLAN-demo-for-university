@@ -27,3 +27,5 @@ switchport mode trunk
 switchport access vlan 6
 
 inter valn is done throug router which is 3 layer and is capabale for allowing different vlan to communicate with each other
+
+inter vlan is pending and will be start again in next week
